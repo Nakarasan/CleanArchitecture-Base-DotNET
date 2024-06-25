@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Utility.FileManipulator\\Shared.Utility.FileManipulator.csproj": {}
+  },
+  "projects": {
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Utility.FileManipulator\\Shared.Utility.FileManipulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Utility.FileManipulator\\Shared.Utility.FileManipulator.csproj",
+        "projectName": "Shared.Utility.FileManipulator",
+        "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Utility.FileManipulator\\Shared.Utility.FileManipulator.csproj",
+        "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
+        "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Utility.FileManipulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
