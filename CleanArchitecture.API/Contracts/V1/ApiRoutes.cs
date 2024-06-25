@@ -17,7 +17,7 @@
 
         #region Product
         /// <summary>
-        /// The Identity class that defines the Identity endpoint routes test
+        /// The Identity class that defines the Identity endpoint routes
         /// </summary>
         public static class Product
         {
@@ -26,7 +26,6 @@
             public const string CreateProduct = "create-product";
             public const string UpdateProduct = "update-product";
             public const string SoftDeleteProduct = "soft-delete-product";
-            public const string SoftDeleteProductt = "soft-delete-productt";
         }
         #endregion
         
