@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6epnSbTVd0RgTuYCvf2jkIXS2nXVavR42n1S/6fobkjSLEsGEbiVSVS4VDbbvWf+UydzZ2S3XBebiXjHwFaWXg==",
+  "dgSpecHash": "QM7Nkb92tVIZTLgH2Nazr52V4RTjSlxAtv7OunT1EBUlfgfoWCYWQq26vGWkGg21y+8qySUa6A9zs55tJLmluA==",
   "success": true,
-  "projectFilePath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+  "projectFilePath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krish\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\krish\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",

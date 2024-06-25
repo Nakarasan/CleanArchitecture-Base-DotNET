@@ -13,7 +13,7 @@ namespace CleanArchitecture.Infra.Migrations
 {
     [DbContext(typeof(ApplicationDataContext))]
     [Migration("20240620044047_init")]
-    partial class init
+    partial class Init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
