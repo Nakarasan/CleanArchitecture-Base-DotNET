@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {}
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {}
   },
   "projects": {
-    "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-        "outputPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Application\\obj\\",
+        "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               },
-              "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
-                "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj"
+              "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
+                "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj"
               },
-              "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj": {
-                "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj"
+              "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj": {
+                "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-        "outputPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\obj\\",
+        "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
         "projectName": "CleanArchitecture.Infra",
-        "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
+        "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj",
         "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-        "outputPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Infra\\obj\\",
+        "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,8 +164,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -225,14 +225,14 @@
         }
       }
     },
-    "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj": {
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
+        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
         "projectName": "Shared.Common.Helper",
-        "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
+        "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
         "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-        "outputPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\obj\\",
+        "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",

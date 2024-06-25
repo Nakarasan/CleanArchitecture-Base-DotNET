@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
+      "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
       "projectName": "Shared.Common.Helper",
-      "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
+      "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\Shared.Common.Helper.csproj",
       "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-      "outputPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common.Helper\\obj\\",
+      "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common.Helper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",

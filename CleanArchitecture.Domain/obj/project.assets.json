@@ -126,11 +126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+      "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
       "projectName": "CleanArchitecture.Domain",
-      "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+      "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
       "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-      "outputPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\obj\\",
+      "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GnTqVm4QO5ieSMw+/rlfcbiexTxw7ys5t3hW7ewWdlBm9JGcIOvh3SHapq8jsdg4aPx7xTQYoOaqsOzDahoFCw==",
+  "dgSpecHash": "wBtBtUrhrBbjvcEIPqKzSfGw3I1Of1/g3vv16WK/F8t5nfjpCFjz6mzoZVKjqX567KTP159FNgzYMBjF/4pLTQ==",
   "success": true,
-  "projectFilePath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common\\Shared.Common.csproj",
+  "projectFilePath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common\\Shared.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

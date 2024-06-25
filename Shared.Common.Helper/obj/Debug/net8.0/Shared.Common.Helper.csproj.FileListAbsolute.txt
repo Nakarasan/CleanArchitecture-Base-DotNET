@@ -20,3 +20,15 @@ E:\SCL\.net\Ecommerce\ProjectThree\Shared.Common.Helper\obj\Debug\net8.0\Shared.
 E:\SCL\.net\Ecommerce\ProjectThree\Shared.Common.Helper\obj\Debug\net8.0\refint\Shared.Common.Helper.dll
 E:\SCL\.net\Ecommerce\ProjectThree\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.pdb
 E:\SCL\.net\Ecommerce\ProjectThree\Shared.Common.Helper\obj\Debug\net8.0\ref\Shared.Common.Helper.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\bin\Debug\net8.0\Shared.Common.Helper.deps.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\bin\Debug\net8.0\Shared.Common.Helper.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\bin\Debug\net8.0\Shared.Common.Helper.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.AssemblyInfoInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.AssemblyInfo.cs
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.csproj.CoreCompileInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.sourcelink.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\refint\Shared.Common.Helper.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\Shared.Common.Helper.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Common.Helper\obj\Debug\net8.0\ref\Shared.Common.Helper.dll

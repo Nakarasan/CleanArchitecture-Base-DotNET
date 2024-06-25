@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common\\Shared.Common.csproj": {}
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common\\Shared.Common.csproj": {}
   },
   "projects": {
-    "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common\\Shared.Common.csproj": {
+    "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common\\Shared.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common\\Shared.Common.csproj",
+        "projectUniqueName": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common\\Shared.Common.csproj",
         "projectName": "Shared.Common",
-        "projectPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common\\Shared.Common.csproj",
+        "projectPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common\\Shared.Common.csproj",
         "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
-        "outputPath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\Shared.Common\\obj\\",
+        "outputPath": "E:\\SCL\\.net\\Ecommerce\\Backend\\Shared.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",
