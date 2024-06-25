@@ -1,0 +1,1 @@
+CQRS MediateR Sample Get Api Working Successfully.

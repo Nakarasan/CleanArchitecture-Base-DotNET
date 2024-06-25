@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ZxakcxhvQ/wbFbP5TgkbDJZhYEh9fJfqwY/sFxy5rsHdrfvWd72TNItGNyvDRN2Z29IUdlGpQZhf22DEUbUEA==",
+  "success": true,
+  "projectFilePath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krish\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\krish\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\krish\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\bin\Debug\net8.0\Shared.Common.DefaultUserHandler.deps.json
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\bin\Debug\net8.0\Shared.Common.DefaultUserHandler.dll
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\bin\Debug\net8.0\Shared.Common.DefaultUserHandler.pdb
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\Shared.Common.DefaultUserHandler.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\Shared.Common.DefaultUserHandler.AssemblyInfoInputs.cache
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\Shared.Common.DefaultUserHandler.AssemblyInfo.cs
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\Shared.Common.DefaultUserHandler.csproj.CoreCompileInputs.cache
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\Shared.Common.DefaultUserHandler.dll
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\refint\Shared.Common.DefaultUserHandler.dll
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\Shared.Common.DefaultUserHandler.pdb
+E:\SCL\.net\Practise\ProjectThree\Shared.Common.DefaultUserHandler\obj\Debug\net8.0\ref\Shared.Common.DefaultUserHandler.dll

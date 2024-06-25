@@ -1,0 +1,11 @@
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\bin\Debug\net8.0\Shared.Common.deps.json
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\bin\Debug\net8.0\Shared.Common.dll
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\bin\Debug\net8.0\Shared.Common.pdb
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\Shared.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\Shared.Common.AssemblyInfoInputs.cache
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\Shared.Common.AssemblyInfo.cs
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\Shared.Common.csproj.CoreCompileInputs.cache
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\Shared.Common.dll
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\refint\Shared.Common.dll
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\Shared.Common.pdb
+E:\SCL\.net\Practise\ProjectThree\Shared.Common\obj\Debug\net8.0\ref\Shared.Common.dll
