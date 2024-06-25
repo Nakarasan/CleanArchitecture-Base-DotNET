@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sZ7KhCa/vVZs0BleXd/7KTrRmqeTwsBaWF3GHxUrpX3IsSdxfjPlQAQKAkqMovUX3OyhhbcwnJ6uO3nlW67vwQ==",
+  "dgSpecHash": "idmL79ULROM2qyqtlgmQn/wm5Jbg+oH4aps/xW3URKyP0jmKN7isuibkrbwrJj1nveM1IGgNZsrhRJO95q77jQ==",
   "success": true,
-  "projectFilePath": "E:\\SCL\\.net\\Ecommerce\\E-Commerce Backend\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+  "projectFilePath": "E:\\SCL\\.net\\Ecommerce\\Backend\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krish\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\krish\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
