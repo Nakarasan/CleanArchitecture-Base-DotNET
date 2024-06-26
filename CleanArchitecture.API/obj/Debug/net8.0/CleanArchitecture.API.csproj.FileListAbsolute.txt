@@ -629,3 +629,7 @@ E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\obj\Debug\net8.0\refint\Clea
 E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.pdb
 E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.genruntimeconfig.cache
 E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\obj\Debug\net8.0\ref\CleanArchitecture.API.dll
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\bin\Debug\net8.0\Shared.Utility.FileManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\bin\Debug\net8.0\Shared.Utility.FileManipulator.pdb
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\bin\Debug\net8.0\Shared.Middleware.ExceptionHandler.dll
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.API\bin\Debug\net8.0\Shared.Middleware.ExceptionHandler.pdb

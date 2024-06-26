@@ -1,0 +1,13 @@
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\bin\Debug\net8.0\Shared.Utility.FileManipulator.deps.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\bin\Debug\net8.0\Shared.Utility.FileManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\bin\Debug\net8.0\Shared.Utility.FileManipulator.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.csproj.AssemblyReference.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.AssemblyInfoInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.AssemblyInfo.cs
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.csproj.CoreCompileInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.sourcelink.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\refint\Shared.Utility.FileManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\Shared.Utility.FileManipulator.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.FileManipulator\obj\Debug\net8.0\ref\Shared.Utility.FileManipulator.dll

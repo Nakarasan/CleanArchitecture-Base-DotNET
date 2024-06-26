@@ -1,0 +1,12 @@
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\bin\Debug\net8.0\Shared.Utility.EmailManipulator.deps.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\bin\Debug\net8.0\Shared.Utility.EmailManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\bin\Debug\net8.0\Shared.Utility.EmailManipulator.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\Shared.Utility.EmailManipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\Shared.Utility.EmailManipulator.AssemblyInfoInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\Shared.Utility.EmailManipulator.AssemblyInfo.cs
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\Shared.Utility.EmailManipulator.csproj.CoreCompileInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\Shared.Utility.EmailManipulator.sourcelink.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\Shared.Utility.EmailManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\refint\Shared.Utility.EmailManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\Shared.Utility.EmailManipulator.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Utility.EmailManipulator\obj\Debug\net8.0\ref\Shared.Utility.EmailManipulator.dll

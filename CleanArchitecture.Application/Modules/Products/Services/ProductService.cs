@@ -5,8 +5,12 @@ using CleanArchitecture.Application.Modules.Products.Models.Response;
 using CleanArchitecture.Domain.Entity;
 using CleanArchitecture.Domain.Entity.Products;
 using CleanArchitecture.Infra.Data;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Shared.Common.Helper.Models;
+using Shared.Middleware.ExceptionHandler.Exceptions;
+using Shared.Utility.FileManipulator;
+using Shared.Utility.FileManipulator.Interfaces;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -21,11 +25,13 @@ namespace CleanArchitecture.Application.Modules.Products.Services
     {
         private readonly ApplicationDataContext dataContext;
         private readonly IMapper mapper;
+        private readonly IFileWriter fileWriter;
 
-        public ProductService(ApplicationDataContext dataContext, IMapper mapper)
+        public ProductService(ApplicationDataContext dataContext, IMapper mapper, IFileWriter fileWriter)
         {
             this.dataContext = dataContext;
             this.mapper = mapper;
+            this.fileWriter = fileWriter;
         }
 
         public async Task<ResponseResult<List<AllProductVM>>> GetAllProductsAsync()
@@ -165,6 +171,37 @@ namespace CleanArchitecture.Application.Modules.Products.Services
             }
         }
 
+        private string GetExpectedAvatarName(int id, IFormFile file)
+        {
+            var extension = "." + file.FileName.Split('.')[file.FileName.Split('.').Length - 1];
+            return id + extension;
+        }
 
+
+        public async Task<ResponseResult<bool>> SetProductImageAsync(int id, IFormFile image)
+        {
+            /*var product = await dataContext.Products.FindAsync(id);
+            if (product == null)
+                throw new NotFoundException($"The Product Not Found with requested id");
+            if (image == null)
+                throw new NotFoundException($"The image not submitted!!");
+            var result = await fileWriter.UploadImageAsync(id, "products", image);
+
+            if (result != GetExpectedAvatarName(id, image))
+                throw new BusinessLogicException($"The avatar image format that requested is not accepted! ");
+
+            string path = Path.Combine("ParentFolser", "folderName");
+            path = Path.Combine(path, result);
+            product.SetProductImage(path);
+            dataContext.Products.Update(product);
+            await dataContext.SaveChangesAsync();*/
+
+            return new ResponseResult<bool>()
+            {
+                Errors = null,
+                Result = true,
+                Succeeded = true
+            };
+        }
     }
 }

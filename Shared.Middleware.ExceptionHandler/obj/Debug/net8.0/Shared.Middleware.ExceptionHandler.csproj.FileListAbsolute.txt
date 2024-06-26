@@ -1,0 +1,12 @@
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\bin\Debug\net8.0\Shared.Middleware.ExceptionHandler.deps.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\bin\Debug\net8.0\Shared.Middleware.ExceptionHandler.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\bin\Debug\net8.0\Shared.Middleware.ExceptionHandler.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\Shared.Middleware.ExceptionHandler.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\Shared.Middleware.ExceptionHandler.AssemblyInfoInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\Shared.Middleware.ExceptionHandler.AssemblyInfo.cs
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\Shared.Middleware.ExceptionHandler.csproj.CoreCompileInputs.cache
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\Shared.Middleware.ExceptionHandler.sourcelink.json
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\Shared.Middleware.ExceptionHandler.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\refint\Shared.Middleware.ExceptionHandler.dll
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\Shared.Middleware.ExceptionHandler.pdb
+E:\SCL\.net\Ecommerce\Backend\Shared.Middleware.ExceptionHandler\obj\Debug\net8.0\ref\Shared.Middleware.ExceptionHandler.dll

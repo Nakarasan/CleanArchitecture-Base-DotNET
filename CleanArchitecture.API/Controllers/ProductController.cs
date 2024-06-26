@@ -41,5 +41,11 @@ namespace CleanArchitecture.API.Controllers
         {
             return await Mediator.Send(command);
         }
+
+       /* [HttpPost("Set Product Image")]
+        public async Task<ResponseResult<bool>> SetAvatarAsync(int id, IFormFile image)
+        {
+            return await Mediator.Send(new SetProductImageCommand() { Id = id, image = image });
+        }*/
     }
 }

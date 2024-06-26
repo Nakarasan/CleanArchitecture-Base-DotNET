@@ -83,5 +83,11 @@ namespace CleanArchitecture.Application.Modules.Products.Extensions
 
             return p;
         }
+        
+        //for Image 
+        public static void SetProductImage(this Product product, string image = "")
+        {
+            product.Tags = image;
+        }
     }
 }

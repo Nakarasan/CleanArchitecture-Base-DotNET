@@ -19,5 +19,10 @@ namespace CleanArchitecture.Domain.Entity.Products
         public string? Description { get; set; }
         public ICollection<Product>? Product { get; set; }
         public ICollection<Offer> Offers { get; set; }
+
+        public static implicit operator Brand(string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

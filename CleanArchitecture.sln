@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Utility.EmailManipul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Utility.FileManipulator", "Shared.Utility.FileManipulator\Shared.Utility.FileManipulator.csproj", "{4FF87843-90E1-4A33-AE04-54F9723CB520}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Middleware", "Middleware", "{21CF125B-0F9B-4E36-B439-57D0B927DCC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Middleware.ExceptionHandler", "Shared.Middleware.ExceptionHandler\Shared.Middleware.ExceptionHandler.csproj", "{7BF2194F-A4A0-4DA6-B669-FBEAA49C6162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,10 @@ Global
 		{4FF87843-90E1-4A33-AE04-54F9723CB520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF87843-90E1-4A33-AE04-54F9723CB520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF87843-90E1-4A33-AE04-54F9723CB520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF2194F-A4A0-4DA6-B669-FBEAA49C6162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF2194F-A4A0-4DA6-B669-FBEAA49C6162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF2194F-A4A0-4DA6-B669-FBEAA49C6162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF2194F-A4A0-4DA6-B669-FBEAA49C6162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +89,8 @@ Global
 		{D3B72DE3-9B91-41A0-862F-BA9EAFC2B816} = {D52AD97F-0D53-410F-845A-C5C9B8612049}
 		{7C8707F3-A0E1-435F-B73B-CBCA4EA095C1} = {D3B72DE3-9B91-41A0-862F-BA9EAFC2B816}
 		{4FF87843-90E1-4A33-AE04-54F9723CB520} = {D3B72DE3-9B91-41A0-862F-BA9EAFC2B816}
+		{21CF125B-0F9B-4E36-B439-57D0B927DCC3} = {D52AD97F-0D53-410F-845A-C5C9B8612049}
+		{7BF2194F-A4A0-4DA6-B669-FBEAA49C6162} = {21CF125B-0F9B-4E36-B439-57D0B927DCC3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58239073-B577-4A5B-9254-69B4D3081BFD}

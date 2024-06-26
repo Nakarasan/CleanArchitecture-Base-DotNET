@@ -13,6 +13,7 @@
     <SourceRoot Include="C:\Users\krish\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.netcore.app\2.2.8\build\netcoreapp2.2\Microsoft.NETCore.App.props" Condition="Exists('$(NuGetPackageRoot)microsoft.netcore.app\2.2.8\build\netcoreapp2.2\Microsoft.NETCore.App.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.6\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.6\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
 </Project>

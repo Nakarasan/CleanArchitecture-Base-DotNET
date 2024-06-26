@@ -103,3 +103,7 @@ E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\obj\Debug\net8.0\Cle
 E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
 E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
 E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\bin\Debug\net8.0\Shared.Utility.FileManipulator.dll
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\bin\Debug\net8.0\Shared.Utility.FileManipulator.pdb
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\bin\Debug\net8.0\Shared.Middleware.ExceptionHandler.dll
+E:\SCL\.net\Ecommerce\Backend\CleanArchitecture.Application\bin\Debug\net8.0\Shared.Middleware.ExceptionHandler.pdb

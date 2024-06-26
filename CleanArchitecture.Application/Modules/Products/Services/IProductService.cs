@@ -2,6 +2,7 @@
 using CleanArchitecture.Application.Modules.Products.Models.Response;
 using CleanArchitecture.Domain.Entity;
 using CleanArchitecture.Domain.Entity.Products;
+using Microsoft.AspNetCore.Http;
 using Shared.Common.Helper.Models;
 using System;
 using System.Collections.Generic;
@@ -17,5 +18,6 @@ namespace CleanArchitecture.Application.Modules.Products.Services
         Task<ResponseResult<ProductVM>> GetProductByIdAsync(int id);
         Task<ResponseResult<int>> CreateProductAsync(ProductRequest request);
         Task<ResponseResult<bool>> UpdateProductAsync(int Id,ProductUpdateRequest request);
+        Task<ResponseResult<bool>> SetProductImageAsync(int id, IFormFile image);
     }
 }
