@@ -4,6 +4,8 @@ using CleanArchitecture.Infra.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Shared.Utility.FileManipulator;
+using Shared.Utility.FileManipulator.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +24,7 @@ namespace CleanArchitecture.Infra
                     throw new InvalidOperationException("Connection string 'BlogBbContect' not found"))
             );*/
             services.AddTransient<IProductService, ProductService>();
+            services.AddTransient<IFileWriter, FileWriter >();
             return services;
         }
     }
